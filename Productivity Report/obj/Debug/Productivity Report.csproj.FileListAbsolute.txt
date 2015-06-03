@@ -1,0 +1,12 @@
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\bin\Debug\Productivity Report.exe.config
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\bin\Debug\Productivity Report.exe
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\bin\Debug\Productivity Report.pdb
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity_Report.Form1.resources
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity_Report.Properties.Resources.resources
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity Report.csproj.GenerateResource.Cache
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity Report.exe
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity Report.pdb
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report\Productivity Report\obj\Debug\Productivity Report.csprojResolveAssemblyReference.cache
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report - Modified\Productivity Report\bin\Debug\Productivity Report.exe.config
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report - Modified\Productivity Report\obj\Debug\Productivity Report.exe
+C:\Users\tshoemake\Desktop\PHS SVNwc\working directory\Projects\Productivity Report - Modified\Productivity Report\obj\Debug\Productivity Report.pdb
